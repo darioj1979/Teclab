@@ -1,0 +1,14 @@
+{   // "LogisTravel" Dario Jofre
+    "OrdenID": 100,
+    "Address": "Redondo 2345",
+    "Status": "Ready",
+    "Articles": 
+    [
+    {   
+        "Name": "Jamon",
+        "Precio": 4500,
+        "Quantity”": 5,
+        "Dangerous": true
+    }
+    ]
+}
